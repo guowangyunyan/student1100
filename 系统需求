@@ -1,0 +1,36 @@
+学生管理系统
+学生信息的添加
+查看学生信息
+删除学生信息
+设置查看学生信息的权限
+用户的注册
+用户登录
+
+
+web.xml配置
+加载sping配置文件
+配置spring监听器
+加载springMvc配置文件 dispatcherServlet
+
+
+
+
+
+
+声明式事物的配置
+定义事务管理器
+txManager
+
+ 配置事务属性
+txAdvice
+
+aop切点的配置
+txPointcut
+
+
+springmvc配置文件
+配置controller扫描包
+开启注解
+视图解析器
+jspViewResolver
+
