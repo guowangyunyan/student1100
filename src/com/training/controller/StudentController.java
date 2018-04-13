@@ -34,7 +34,7 @@ public class StudentController {
 	}
 
 	// 查看学生信息
-	@RequestMapping("loadStudents")
+	@RequestMapping("/loadStudents")
 	public String loadStudens(Model model, @RequestParam(value = "currentPage", defaultValue = "1") Integer currentPage,
 			@RequestParam(value = "pageSize", defaultValue = "5") Integer pageSize) {
 		Pagination page = new Pagination();

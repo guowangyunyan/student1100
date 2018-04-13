@@ -9,6 +9,7 @@
 
 web.xml配置
 加载sping配置文件
+乱码处理
 配置spring监听器
 加载springMvc配置文件 dispatcherServlet
 
@@ -34,3 +35,4 @@ springmvc配置文件
 视图解析器
 jspViewResolver
 
+学生的增删改查
